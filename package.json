@@ -4,21 +4,21 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "spain": "index.js"
+    "DOntre": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/innovative-thinkrs/learning-commander-cli.git"
+    "url": "git+https://github.com/DOntreG/learning-commander-cli.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/innovative-thinkrs/learning-commander-cli/issues"
+    "url": "https://github.com/DOntreG/learning-commander-cli/issues"
   },
-  "homepage": "https://github.com/innovative-thinkrs/learning-commander-cli#readme",
+  "homepage": "https://github.com/DOntreG/learning-commander-cli#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^7.1.0",
