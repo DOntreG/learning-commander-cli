@@ -25,10 +25,20 @@ program
    .description('List all the NFC Starting Quarterbacks')
 
 //   .option('-k, --key <string>', 'String|phrase Key to Use')
-   .action(function (password, options) {
+   .action(function (NFC, options) {
     console.log('')
     console.log(colors.green('Extra Help Text'));
     console.log('')
+
+    console.log(
+      table([
+        ['Name', 'Team', 'Jersey Number'],
+        ['Aaron Rodgers', 'Packers', '12'],
+        ['Tom Brady', 'Bucs', '12'],
+        ['Russell Wilson', 'Seahawks', '3']
+
+      ])
+    )
  
    });
 
