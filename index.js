@@ -20,6 +20,18 @@ program
  
    });
 
+   program
+   .command('NFC Quarterbacks <password>')
+   .description('List all the NFC Starting Quarterbacks')
+
+//   .option('-k, --key <string>', 'String|phrase Key to Use')
+   .action(function (password, options) {
+    console.log('')
+    console.log(colors.green('Extra Help Text'));
+    console.log('')
+ 
+   });
+
 program.on('--help', function(){
     console.log();
     console.log('Extra Help Text');
