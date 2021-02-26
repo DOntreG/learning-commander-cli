@@ -11,26 +11,14 @@ program
   .usage(' ');
   //.usage('encrypt|decrypt <password> <options>');
   
-//   program
-//   .command('encrypt <password>')
-//   .description('Encrypt a plain text password')
+   program
+   .command('encrypt <password>')
+   .description('Encrypt a plain text password')
 //   .option('-k, --key <string>', 'String|phrase Key to Use')
-//   .action(function (password, options) {
-//     debug('encrypt command');
-//     if( options.key == undefined ){
-//       console.log();
-//       // console.log('  -k, --key option is required');
-      
-//       console.log('  ');
-//       process.exit(1);
-//     } else {
-//       let ciphertext = CryptoJS.AES.encrypt(password,options.key);
-//       console.log();
-//       console.log(' Encrypted Password: ' + ciphertext);
-//       console.log();
-//     }
+   .action(function (password, options) {
+    console.log('Extra Help Text');
  
-//   });
+   });
 
 program.on('--help', function(){
     console.log();
