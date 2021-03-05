@@ -14,7 +14,7 @@ program
   
    program
    .command('teams')
-   .description('Encrypt a plain text password')
+   .description('List Teams in the NFC along with the names of Coaches, Mascots, and Head Coaches')
 //   .option('-k, --key <string>', 'String|phrase Key to Use')
    .action(function (password, options) {
     console.log('Extra Help Text');
