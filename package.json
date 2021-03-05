@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "DOntre": "index.js"
+    "nfc": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
