@@ -60,7 +60,7 @@ program
         ['Kyler Murray', 'Cardinals', '1']
         ['Jared Goff', 'Rams', '16']
         ['Jimmy Garoppolo', '49ers', '10']
-        ['Dak Prescott', 'Cowboys'. '4']
+        ['Dak Prescott', 'Cowboys', '4']
         ['Daniel Jones', 'Giants', '10']
         ['Jalen Hurts', 'Eagles', '2']
         ['Mitchell Trubisky', 'Bears', '10']
