@@ -26,10 +26,12 @@ program
 
       table([
         ['Team Name', 'Mascot', 'Head Coach', 'website'],
-        ['Green Bay Packers', 'Packers', '12', ''],
-        ['Tom Brady', 'Bucs', '12', ''],
-        ['Russell Wilson', 'Seahawks', '3', '']
-
+        ['Green Bay Packers', 'Packers', '', ''],
+        ['Tampa Bay Buccaneers', 'Bucs', '', ''],
+        ['Seattle Seahawks', 'Seahawks', '', '']
+        ['New Orleans Saints', 'Siants', '', '']
+        ['Washington Football Team', 'Washington Team', '', '']
+        
       ])
     )
    });
@@ -51,6 +53,19 @@ program
         ['Aaron Rodgers', 'Packers', '12'],
         ['Tom Brady', 'Bucs', '12'],
         ['Russell Wilson', 'Seahawks', '3']
+        ['Drew Brees', 'Saints', '9']
+        ['Alex Smith', 'Washington Football Team', '11']
+        ['Teddy Bridgewater', 'Panthers', '5']
+        ['Matt Ryan', 'Falcons', '2']
+        ['Kyler Murray', 'Cardinals', '1']
+        ['Jared Goff', 'Rams', '16']
+        ['Jimmy Garoppolo', '49ers', '10']
+        ['Dak Prescott', 'Cowboys'. '4']
+        ['Daniel Jones', 'Giants', '10']
+        ['Jalen Hurts', 'Eagles', '2']
+        ['Mitchell Trubisky', 'Bears', '10']
+        ['Matthew Stafford', 'Lions', '9']
+        ['Kirk Cousins', 'Vikings', '8']
 
       ])
     )
