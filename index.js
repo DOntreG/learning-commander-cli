@@ -27,11 +27,22 @@ program
 
       table([
         ['Team Name', 'Mascot', 'Head Coach', 'website'],
-        ['Green Bay Packers', 'Packers', '', ''],
-        ['Tampa Bay Buccaneers', 'Bucs', '', ''],
-        ['Seattle Seahawks', 'Seahawks', '', ''],
-        ['New Orleans Saints', 'Siants', '', ''],
-        ['Washington Football Team', 'Washington Team', '', '']
+        ['Green Bay Packers', 'N/a', 'Matt LaFleur', 'https://www.packers.com/'],
+        ['Tampa Bay Buccaneers', 'Captian Fear', 'Bruce Arians', 'https://www.buccaneers.com/'],
+        ['Seattle Seahawks', 'Blitz/Boom/Taima', 'Pete Caroll', 'https://wwww.seahawks.com/'],
+        ['New Orleans Saints', 'Siants', 'Sean Payton', 'http://wwww.neworleanssiants.com/'],
+        ['Washington Football Team', 'N/a', 'Ron Rivera', 'https://www.washingtonfootball.com/'],
+        ['Carolina Panther', 'Sir Purr', 'Matt Rhule', 'https://www.panthers.com/'],
+        ['Atlanta Falcons', 'Freddie Falcon', 'Dann Quinn', 'https://www.atlantafalcons.com/']
+        ['Arizona Cardinals', 'Big Red', 'Kliff Kingsbury', 'https://www.azcardinals.com/']
+        ['Los Angeles Rams', 'Rams', 'Sean McVay', 'https://www.therams.com/']
+        ['San Franciso 49ers', 'Sourdough Sam', 'Kyle Shanahan', '']
+        ['Dallas Cowboys', 'Rowdy', 'Mike McCarthy', 'https://www.49ers.com/'],
+        ['New York Giants', 'N/a', 'Joe Judge', 'https://www.giants.com/'],
+        ['Philadelphia Eagles', ' Swoop', 'Doug Pederson', 'https://www.philadelphiaeagles.com/'],
+        ['Chicago Bears', 'Stayley Da Bear', 'Matt Nagy', 'https://www.chicagobears.com/'],
+        ['Detroit Lions', 'Lions', 'Matt Patricia', 'https://www.detroitlions.com/'],
+        ['Minnesota Vikings', 'Viktor', 'Mike Zimmer', 'https://www.vikings.com/']
         
       ])
     )
